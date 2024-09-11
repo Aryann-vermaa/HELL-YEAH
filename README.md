@@ -1,2 +1,2 @@
 # My First Repo
-This Is My First Repository.
+Hi Aryan This Side , Fellow Exploring GITHUB
